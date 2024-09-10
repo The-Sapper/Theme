@@ -129,7 +129,7 @@
     "spec": 2,
     "background": {
         "blur": 0,
-        "url": "https://raw.github.com/The-Sapper/Theme/blob/main/SUS.jpg",
+        "url": "https://raw.githubusercontent.com/The-Sapper/Theme/main/SUS.jpg",
         "alpha": 0.3,
         "color": "#220403"
     
